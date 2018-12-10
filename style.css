@@ -12,13 +12,6 @@ h1{
     text-shadow: 2px 2px 4px #000000;
 }
 
-h2{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 200%;
-    text-align: center;
-    color: white;   
-}
-
 canvas {
     z-index: 1;
     padding: 0;
